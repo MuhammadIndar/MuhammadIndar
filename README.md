@@ -1,14 +1,14 @@
 <div align="center">
-  <img height="200" src="https://ik.imagekit.io/iyf3aflzt/20250223_172434.png?updatedAt=1746169698173"  />
+  <img height="300" src="https://ik.imagekit.io/iyf3aflzt/20250223_172434.png?updatedAt=1746169698173"  />
 </div>
 
 ###
 
-<p align="center">═════════════════════════════</p>
+<p align="center">════════════════════════════════════════════════</p>
 
 ###
 
-<h3 align="left">🚀 Languages & Frameworks</h3>
+<h4 align="center">🚀 Languages & Frameworks</h4>
 
 ###
 
@@ -26,7 +26,11 @@
 
 ###
 
-<h3 align="left">🖥️ Operating Systems</h3>
+<p align="center">════════════════════════════════════════════════</p>
+
+###
+
+<h4 align="center">🖥️ Operating Systems</h4>
 
 ###
 
@@ -38,7 +42,11 @@
 
 ###
 
-<h3 align="left">⚙️ Developer Tools</h3>
+<p align="center">════════════════════════════════════════════════</p>
+
+###
+
+<h4 align="center">⚙️ Developer Tools</h4>
 
 ###
 
@@ -54,7 +62,7 @@
 
 ###
 
-<p align="center">═════════════════════════════</p>
+<p align="center">════════════════════════════════════════════════</p>
 
 ###
 
@@ -71,7 +79,7 @@
 
 ###
 
-<h3 align="center">🌐Connect with Me</h3>
+<h4 align="center">🌐Connect with Me</h4>
 
 ###
 

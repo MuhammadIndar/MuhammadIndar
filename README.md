@@ -4,11 +4,12 @@
 <img height="250" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZjA1MjFhdWhvNTUzN2FwM2lvajNiYTd3MzVmc2dvaTQ3bmI1aXFzaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HscDLzkO8EOTmgkhQP/giphy.gif" />
 </td>
 <td>
-
-
+  
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MuhammadIndar.MuhammadIndar&left_color=darkslategray&right_color=dimgray"  />
 </div>
+
+###
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -17,6 +18,8 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
 </div>
+
+###
 
 <div align="left">
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="25" alt="go logo"  />

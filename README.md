@@ -1,69 +1,92 @@
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZjA1MjFhdWhvNTUzN2FwM2lvajNiYTd3MzVmc2dvaTQ3bmI1aXFzaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HscDLzkO8EOTmgkhQP/giphy.gif" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Muhammad%20Indar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CEO%20%26%20Founder%20@%20PT%20Garda%20Sistem%20Digital&descAlignY=60&descAlign=50" alt="Muhammad Indar Banner" />
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3382F7&center=true&vCenter=true&width=435&lines=Building+Digital+Solutions;Tech+Entrepreneur+%26+Developer;Open+Source+Enthusiast;Based+in+Indonesia" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/muhammadindar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:indar@muhammadindar.my.id">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://muhammadindar.my.id" target="_blank">
+    <img src="https://img.shields.io/badge/Website-20232A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://orcid.org/0009-0007-8542-8637" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MuhammadIndar.MuhammadIndar&left_color=darkslategray&right_color=dimgray"  />
+  <h3>About Me</h3>
+  <p width="600px">
+    I am a technology leader and developer focused on building scalable digital systems. Currently leading <b>PT Garda Sistem Digital</b> to innovate in the Indonesian tech landscape.
+  </p>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="25" alt="go logo"  />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="25" alt="typescript logo"  />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="25" alt="javascript logo"  />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="python logo"  />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="25" alt="html5 logo"  />
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="25" alt="css logo"  />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="25" alt="tailwindcss logo"  />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="25" alt="linux logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-</div>
-
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadIndar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=onedark&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-
-###
+  <h3>Technical Arsenal</h3>
   
-  <img src="https://github-profile-trophy.vercel.app?username=MuhammadIndar&theme=onedark&column=8&row=1&margin-w=10&margin-h=17&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </div>
 
-
-<br clear="both">
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadIndar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <h3>GitHub Analytics</h3>
+  <br>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=MuhammadIndar&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" height="160" alt="stats graph" />
+    <img src="https://streak-stats.demolab.com?user=MuhammadIndar&mode=daily&theme=react&hide_border=true&bg_color=0D1117" height="160" alt="streak graph" />
+  </p>
   
-  <img src="https://streak-stats.demolab.com?user=MuhammadIndar&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadIndar&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117" height="140" alt="languages graph" />
+  </p>
+
+  <p>
+    <img src="https://github-profile-trophy.vercel.app?username=MuhammadIndar&theme=onestar&column=7&no-frame=true&no-bg=true" alt="trophy graph" />
+  </p>
 </div>
 
-###
+<br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadIndar/MuhammadIndar/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadIndar/MuhammadIndar/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MuhammadIndar/MuhammadIndar/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadIndar/MuhammadIndar/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadIndar/MuhammadIndar/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MuhammadIndar/MuhammadIndar/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
 
-###
+<br/>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MuhammadIndar.MuhammadIndar&left_color=0d1117&right_color=3382F7" alt="visitor badge"/>
+  <br/>
+  <small><i>Connect with me to discuss tech, business, and innovation.</i></small>
+</div>

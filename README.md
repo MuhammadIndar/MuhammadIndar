@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Muhammad%20Indar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CEO%20%26%20Founder%20@%20PT%20Garda%20Sistem%20Digital&descAlignY=60&descAlign=50" alt="Muhammad Indar Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Muhammad%20Indar&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=CEO%20%2F%20Founder%20%40PT%20Garda%20Sistem%20Digital&descAlignY=65&descAlign=50" width="100%" alt="header" />
 </div>
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">

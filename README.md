@@ -61,7 +61,6 @@
   <h3>GitHub Analytics</h3>
   <br>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=MuhammadIndar&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" height="160" alt="stats graph" />
     <img src="https://streak-stats.demolab.com?user=MuhammadIndar&mode=daily&theme=react&hide_border=true&bg_color=0D1117" height="160" alt="streak graph" />
   </p>
   
@@ -69,9 +68,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadIndar&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117" height="140" alt="languages graph" />
   </p>
 
-  <p>
-    <img src="https://github-profile-trophy.vercel.app?username=MuhammadIndar&theme=onestar&column=7&no-frame=true&no-bg=true" alt="trophy graph" />
-  </p>
 </div>
 
 <br/>
